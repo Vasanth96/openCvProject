@@ -1,3 +1,8 @@
+#incase if you get an error to install pyaudio
+# in terminal add this line:
+# pip install pipwin
+# pipwin install pyaudio
+
 import time
 import speech_recognition as sr
 from gtts import gTTS
